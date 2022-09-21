@@ -1,0 +1,27 @@
+_repo: Elements-of-woodwork_69019
+_version: 0.0.1
+creator:
+  author:
+    agent_name: King, Charles A.
+    gutenberg_agent_id: '55060'
+    url: http://www.gutenberg.org/2009/agents/55060
+description: ''
+gutenberg_issued: '2022-09-20'
+identifiers:
+  gutenberg: '69019'
+language: en
+pgterms:marc904: https://archive.org/details/elementsofwoodwo00king/page/n7/mode/2up
+pgterms:marc905: 20200801231925king
+pgterms:marc906: '1911'
+pgterms:marc907: US
+production_note: Alan, Charlene Taylor and the Online Distributed Proofreading Team
+  at https://www.pgdp.net (This file was produced from images generously made available
+  by The Internet Archive/American Libraries.)
+publication_note: United States :American Book Company,1911.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Elements of woodwork
+url: http://www.gutenberg.org/ebooks/69019
