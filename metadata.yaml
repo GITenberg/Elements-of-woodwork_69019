@@ -1,11 +1,16 @@
 _repo: Elements-of-woodwork_69019
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 69019-h/images/cover.jpg
 creator:
   author:
     agent_name: King, Charles A.
     gutenberg_agent_id: '55060'
     url: http://www.gutenberg.org/2009/agents/55060
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69019#Elements-of-woodwork
 gutenberg_issued: '2022-09-20'
 identifiers:
   gutenberg: '69019'
